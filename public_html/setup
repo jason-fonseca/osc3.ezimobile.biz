@@ -1,0 +1,1 @@
+chmod 777 catalog/includes/configure.php catalog/admin/includes/configure.php
